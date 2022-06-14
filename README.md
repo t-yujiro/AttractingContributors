@@ -27,6 +27,7 @@ What is your average amount of sleep?
 
 # List of sleep time list
 example) 8 hours
+- 5+2 hours
 - 7 hours
 - 5 hours
 - 3 hours

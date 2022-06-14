@@ -30,3 +30,4 @@ What is the name of the noodle shop you recommend?<br>
 - Ichiran
 - やまひで
 - Joroku（丈六）, Namba
+- 元喜神

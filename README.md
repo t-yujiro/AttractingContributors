@@ -23,3 +23,9 @@ What is the name of the noodle shop you recommend?<br>
 # List of Ramen Shop Name
 (Example) Toichi（と市）
 Ittyoume(壱丁目)
+- まりお流
+- Tenichi
+- はなやま
+- Ichiran
+- やまひで
+- Joroku（丈六）, Namba

@@ -26,3 +26,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Nhato
 - Farid Bang
 - Mrs. GREEN APPLE
+- Nishikawa Takanori
+- YoruShika
+- =LOVE

@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Byoudohin Houohdo
 - kinosaki onsen
 - Hida Takayama
+- Kashiwajima

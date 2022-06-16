@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Takachiho Gorge
 - Byoudohin Houohdo
 - kinosaki onsen
+- Hida Takayama

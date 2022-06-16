@@ -26,4 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - beppu onsen
 - Ama
 - Tokyo Tower
-
+- Kusatsu Onsen

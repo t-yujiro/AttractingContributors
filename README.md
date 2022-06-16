@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Tourist destinations in Japan
 (example) Fushimi Inari
 - Ama
+- Tokyo Tower

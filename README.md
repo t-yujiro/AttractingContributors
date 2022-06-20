@@ -39,3 +39,8 @@ example) 8 hours
 - 7 hours
 - 6 hours
 - 6 hours
+- 7 hours
+- 5 hours
+- 10 hours
+- 7 hours
+- 7 hs

@@ -36,3 +36,9 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - AmanoHashidate
 - Ise zingu
 - Takeda jo
+- Biwako big gate (toori)
+- Himeji himawari garden
+- Akihabara
+- Mt. Yoshino Nara
+- Tohoku university
+

@@ -23,4 +23,15 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Tourist destinations in Japan
 (example) Fushimi Inari
+- beppu onsen
+- Ama
+- Tokyo Tower
+- Kusatsu Onsen
+- Shirakami Sanchi
+- Takachiho Gorge
+- Byoudohin Houohdo
+- kinosaki onsen
+- Hida Takayama
+- Kashiwajima
 - AmanoHashidate
+
